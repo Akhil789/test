@@ -5,4 +5,14 @@ Burger
 Chicken
 manchuria
 Pasta
+<<<<<<< HEAD
 Yogurt
+=======
+
+
+Mocktails
+
+virgin moctail
+chocolate mocktail
+mojito mocktail
+>>>>>>> version2
