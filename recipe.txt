@@ -5,3 +5,5 @@ Burger
 Chicken
 manchuria
 Pasta
+Maggi
+Ice cream
